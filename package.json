@@ -1,0 +1,16 @@
+{
+  "name": "clockmakers-workshop",
+  "version": "1.0.0",
+  "description": "The Clockmaker's Workshop - Phaser 4 escape room game",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build"
+  },
+  "dependencies": {
+    "phaser": "^4.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^6.0.3",
+    "vite": "^8.0.13"
+  }
+}
